@@ -1,4 +1,0 @@
-<h1>Hello Git</h1>
-
-file has been modifed 
-
